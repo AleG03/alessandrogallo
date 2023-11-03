@@ -54,6 +54,14 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
     name = "About"
     url = "/about/"
     title = "The about page"
+  [[menu.main]]
+    weight = 2
+    identifier = "cv"
+    pre = ""
+    post = ""
+    name = "CV"
+    url = "https://github.com/AleG03/resume/releases/latest/download/AlessandroGallo_CV.pdf"
+    title = "My CV"
 
 [params]
   # site default theme ["auto", "light", "dark"]
@@ -97,7 +105,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
     #  Custom content (HTML format is supported)
     custom = ''
     #  whether to show Hugo and theme info
-    hugo = false
+    hugo = true
     #  whether to show copyright info
     copyright = true
     #  whether to show the author

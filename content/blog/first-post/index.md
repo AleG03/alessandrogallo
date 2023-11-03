@@ -1,7 +1,7 @@
 ---
 title: "First Post"
-date: 2023-01-08T13:00:00+01:00
-lastmod: 2023-01-08T13:00:00+01:00
+date: 2023-11-03T13:00:00+01:00
+lastmod: 2023-11-03T13:00:00+01:00
 draft: false
 author: "Alessandro Gallo"
 authorLink: ""

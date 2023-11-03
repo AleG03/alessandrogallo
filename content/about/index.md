@@ -1,7 +1,7 @@
 ---
 title: "About Alessandro Gallo"
-date: 2022-12-29T13:00:00+01:00
-lastmod: 2022-12-29T13:00:00+01:00
+date: 2022-11-03T13:00:00+01:00
+lastmod: 2022-11-03T13:00:00+01:00
 draft: false
 author: "Alessandro Gallo"
 authorLink: ""
