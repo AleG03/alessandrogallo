@@ -1,5 +1,4 @@
 ---
-title: "About Alessandro Gallo"
 date: 2022-11-03T13:00:00+01:00
 lastmod: 2022-11-03T13:00:00+01:00
 draft: false
@@ -22,5 +21,15 @@ math:
   enable: true
 ---
 
+<h1 style="text-align: center;">About Me</h1>
 
-I'm a DevOps!
+
+<p align="center">I'm a <strong>DevOps</strong> engineer who loves to learn new things. Based in <strong>Pavia, Italy</strong>, I'm passionate about working on <strong>Data-Driven</strong> and <strong>ETL</strong> projects. </p>
+
+<p align="center">I’m always looking for ways to improve my skills and stay up-to-date with the latest trends in technology. I believe that learning is a lifelong process, and I’m excited to see where my journey takes me next. </p>
+
+<p align="center">If you’re interested in learning more about my work or have any questions, please don’t hesitate to reach out or take a look at my <a href="https://github.com/AleG03/resume/releases/latest/download/AlessandroGallo_CV.pdf"><strong>CV</strong></a>. </p>
+
+<p align="center">I promise I won't bite! 😜</p>
+
+---
