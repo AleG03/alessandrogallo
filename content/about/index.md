@@ -28,7 +28,7 @@ math:
 
 <p align="center">I’m always looking for ways to improve my skills and stay up-to-date with the latest trends in technology. I believe that learning is a lifelong process, and I’m excited to see where my journey takes me next. </p>
 
-<p align="center">If you’re interested in learning more about my work or have any questions, please don’t hesitate to reach out or take a look at my <a href="https://github.com/AleG03/resume/releases/latest/download/AlessandroGallo_CV.pdf"><strong>CV</strong></a>. </p>
+<p align="center">If you’re interested in learning more about my work or have any questions, please don’t hesitate to reach out or take a look at my <a href="/files/AlessandroGallo_CV.pdf"><strong>CV</strong></a>. </p>
 
 <p align="center">I promise I won't bite! 😜</p>
 
