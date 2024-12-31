@@ -60,7 +60,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
     pre = ""
     post = ""
     name = "CV"
-    url = "/images/AlessandroGallo_CV.pdf"
+    url = "https://github.com/AleG03/resume/releases/latest/download/AlessandroGallo_CV.pdf"
     title = "My CV"
 
 [params]
